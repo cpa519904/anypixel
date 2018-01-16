@@ -1,3 +1,4 @@
+AnyPixel.js 是 Google 开源的一个软件和硬件框架，可以用来构建各种由“像素”构成的展示，每个像素可以是任何一种可交互的实体对象，如 LED 灯、气球等
 ![img](https://github.com/googlecreativelab/anypixel/blob/master/header.png)
 
 [AnyPixel.js](http://googlecreativelab.github.io/anypixel) is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays. Anyone can fork the code and the schematics to create their own display at any scale.
